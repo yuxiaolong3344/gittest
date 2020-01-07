@@ -6,5 +6,7 @@ public class HW {
         System.out.println("hello wordgggg gggggg");
         System.out.println("hello wordgggg gggggg");
         System.out.println("hello wordgggg gggggg");
+        System.out.println("hello wordgggg gggggg");
+        System.out.println("hello wordgggg ttttt");
     }
 }
